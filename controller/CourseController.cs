@@ -12,8 +12,8 @@ namespace First2App.controller
         public IActionResult Details(){
          var course=new Course();
          course.Name="Alp";
-          course.Description="alp ileilgili herşey";
-          course.isPublisged=true;
+          course.Description="alp ile ilgili herşey";
+          course.isPublisged=false;
           return View(course);
         
          }
