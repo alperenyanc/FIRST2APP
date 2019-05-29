@@ -21,3 +21,5 @@ C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorTargetAssemblyInfo.cs
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.Views.pdb
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.csproj.CopyComplete
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Course\Details.g.cshtml.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
