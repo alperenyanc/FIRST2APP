@@ -1,0 +1,14 @@
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.deps.json
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.runtimeconfig.json
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.runtimeconfig.dev.json
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.dll
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.pdb
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.csprojAssemblyReference.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.csproj.CoreCompileInputs.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorAssemblyInfo.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorAssemblyInfo.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.AssemblyInfoInputs.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.AssemblyInfo.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorTargetAssemblyInfo.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.dll
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.pdb
