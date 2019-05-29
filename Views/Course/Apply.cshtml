@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Apply</title>
+</head>
+<body>
+    <form asp-action="/course/apply" >
+    <p> 
+        <label for="name" >Adınız</label>
+        <input type="text" name="name" >
+         </p>
+         <p>
+             <label for="phone">Phone</label>
+             <input type="text" name="phone" >
+         </p>
+         <p>
+             <label  for="confirm" > confirm </label>
+             <select name="confirm" >
+                 <option value="" >Seçiniz</option>
+                 <option value="true" >YES</option>
+                 <option value="false" >No</option>
+
+
+
+             </select>
+
+         </p>
+         
+    </form>
+    
+</body>
+</html>

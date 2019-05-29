@@ -2681,6 +2681,11 @@
   "RootNamespace": "First2App",
   "Documents": [
     {
+      "FilePath": "Views\\Sheared\\_ViewImports.cshtml",
+      "TargetPath": "Views\\Sheared\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -2688,6 +2693,11 @@
     {
       "FilePath": "Views\\Course\\Details.cshtml",
       "TargetPath": "Views\\Course\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Course\\Apply.cshtml",
+      "TargetPath": "Views\\Course\\Apply.cshtml",
       "FileKind": "mvc"
     },
     {
