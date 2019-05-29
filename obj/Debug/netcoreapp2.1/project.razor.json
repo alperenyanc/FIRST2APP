@@ -2679,5 +2679,11 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "First2App",
-  "Documents": []
+  "Documents": [
+    {
+      "FilePath": "Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ]
 }

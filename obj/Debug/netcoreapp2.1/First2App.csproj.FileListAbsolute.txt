@@ -12,3 +12,12 @@ C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.AssemblyInfo.cs
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorTargetAssemblyInfo.cache
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.dll
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.pdb
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.Views.dll
+C:\CoreExample\First2App\bin\Debug\netcoreapp2.1\First2App.Views.pdb
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.TagHelpers.input.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.TagHelpers.output.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorCoreGenerate.cache
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.RazorTargetAssemblyInfo.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.Views.pdb
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.csproj.CopyComplete
