@@ -23,3 +23,6 @@ C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.Views.pdb
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\First2App.csproj.CopyComplete
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Course\Details.g.cshtml.cs
 C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Course\Apply.g.cshtml.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\Sheared\_ViewImports.g.cshtml.cs
+C:\CoreExample\First2App\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs

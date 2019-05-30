@@ -13,7 +13,7 @@ namespace First2App.controller
          var course=new Course();
          course.Name="Alp";
           course.Description="alp ile sen öyle san! ilgili herşey";
-          course.isPublisged=false;
+          course.isPublished=true;
           return View(course);
         
          }

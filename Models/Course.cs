@@ -4,6 +4,6 @@ namespace First2App.Models
     {
         public string Name{get;set;}
         public string Description{get;set;}
-        public bool isPublisged{get;set;}
+        public bool isPublished{get;set;}
     }
 }
